@@ -26,10 +26,9 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop
-![](./images/desktop-screenshot.png)
+![image](https://user-images.githubusercontent.com/65905342/173861926-6289837e-c492-43aa-b0d3-131b6f39d679.png)
 
-#### Mobile
-![](./images/mobile-screenshot.png)
+
 
 ## My process
 
